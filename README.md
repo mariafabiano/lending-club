@@ -1,1 +1,1 @@
-# lending_club
+# lending-club
