@@ -1,5 +1,7 @@
 *.ipynb_checkpoints/
 
+*.DS_Store
+
 # pictures
 *.png
 *.pdf
@@ -8,3 +10,4 @@
 data/
 *.csv
 accepted_zips/
+*.zip
