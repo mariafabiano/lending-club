@@ -1,2 +1,10 @@
 *.ipynb_checkpoints/
+
+# pictures
+*.png
+*.pdf
+
+# data
 data/
+*.csv
+accepted_zips/
